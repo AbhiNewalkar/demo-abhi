@@ -3,10 +3,10 @@
 
 * Trying hard to learning GIT.
         
-        `git init`
+        **git init**
 
     To initiat git repo hit abv command.
-        
-        `git clone <Repo link>`
+    
+        `git clone <Repo link`
     
     To clone remove repo.
